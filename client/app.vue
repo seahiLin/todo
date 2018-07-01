@@ -1,6 +1,7 @@
 <template>
 	<div id="app">
 		<div id="cover"></div>
+        1
 		<Header></Header>
         <Todo></Todo>
         <Footer></Footer>
