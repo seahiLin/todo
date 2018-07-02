@@ -74,9 +74,9 @@
 
 <style lang="stylus" scoped>
     .real-app {
-        width 600px
-        margin 0 auto
-        box-shadow 0 0 5px #666
+        width: 600px;
+        margin: 0 auto;
+        box-shadow: 0 0 5px #666;
     }
     .add-input {
         position: relative;
@@ -94,5 +94,5 @@
         padding: 16px 16px 16px 36px;
         border: none;
         box-shadow: inset 0 -2px 1px rgba(0, 0, 0, 0.03);
-    }
+	}
 </style>

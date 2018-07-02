@@ -33,8 +33,8 @@
         right 0
         top 0
         bottom 0
-        background-color #555
-        opacity 0.5
+        background-color #fff
+        opacity 0.2
         z-index -1
     }
 </style>
